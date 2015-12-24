@@ -20,8 +20,10 @@ The project should port pretty easily to python 3 as long as you change the "xra
 
 Examples
 --------
-The "rds simple" notebook creates basic dual image autostereograms. Converge or diverge the eyes so as to see a triplet of three red dots. Clear any blurriness but maintain the triplet to see a rectangle emerge from the background dots in vivid 3D. 
+The "rds simple" notebook creates basic dual image autostereograms. Converge or diverge the eyes so as to see a triplet of three red dots. Clear any blurriness but maintain the triplet to see a rectangle emerge from the background dots in vivid 3D.
+
 ![static_dual_example.png](https://raw.github.com/samjgrey3/stereograms/master/examples/static_dual_example.png)
 
-The "rds depth mask" notebook creates more advanced autostereograms. Converge or diverge the eyes so as to see a triplet of three black dots. Clear any blurriness but maintain the triplet to see a shark emerge from the background dots in vivid 3D. 
+The "rds depth mask" notebook creates more advanced autostereograms. Converge or diverge the eyes so as to see a triplet of three black dots. Clear any blurriness but maintain the triplet to see a shark emerge from the background dots in vivid 3D.
+
 ![static_shark_example.png](https://raw.github.com/samjgrey3/stereograms/master/examples/static_shark_example.png)
