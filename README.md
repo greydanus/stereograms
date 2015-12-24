@@ -22,10 +22,10 @@ Examples
 --------
 The "rds simple" notebook creates basic dual image autostereograms like this:
 
-* Converge or diverge the eyes so as to see a triplet of three red dots. Clear any blurriness but maintain the triplet to see a rectangle emerge from the background dots in vivid 3D. *
-![shark.png](https://raw.github.com/samjgrey3/stereograms/master/examples/static_dual_example.png)
+*Converge or diverge the eyes so as to see a triplet of three red dots. Clear any blurriness but maintain the triplet to see a rectangle emerge from the background dots in vivid 3D.*
+![static_dual_example.png](https://raw.github.com/samjgrey3/stereograms/master/examples/static_dual_example.png)
 
 The "rds depth mask" notebook creates autostereograms like this:
 
-* Converge or diverge the eyes so as to see a triplet of three black dots. Clear any blurriness but maintain the triplet to see a shark emerge from the background dots in vivid 3D. *
-![shark.png](https://raw.github.com/samjgrey3/stereograms/master/examples/static_shark_example.png)
+*Converge or diverge the eyes so as to see a triplet of three black dots. Clear any blurriness but maintain the triplet to see a shark emerge from the background dots in vivid 3D.*
+![static_shark_example.png](https://raw.github.com/samjgrey3/stereograms/master/examples/static_shark_example.png)
