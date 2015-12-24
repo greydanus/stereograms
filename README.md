@@ -13,8 +13,9 @@ I emphasize that this is a work in progress. I am actively experimenting with th
 Dependencies
 --------
 * All code is written in python 2.7. You will need:
- * Numpy
- * Matplotlib
+ * [Numpy](http://www.numpy.org/)
+ * [iPython](https://ipython.org/)
+ * [Matplotlib](http://matplotlib.org/) (but only if you want to plot stereograms inside of your iPython notebooks)
 
 The project should port pretty easily to python 3 as long as you change the "xrange" keywords to "range" and other such minor changes
 
